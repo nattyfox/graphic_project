@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphicProject", "GraphicProject.vcxproj", "{8101F55F-B3D8-3E24-B027-38ACDCA6DB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8101F55F-B3D8-3E24-B027-38ACDCA6DB91}.Debug|x64.ActiveCfg = Debug|x64
+		{8101F55F-B3D8-3E24-B027-38ACDCA6DB91}.Debug|x64.Build.0 = Debug|x64
+		{8101F55F-B3D8-3E24-B027-38ACDCA6DB91}.Release|x64.ActiveCfg = Release|x64
+		{8101F55F-B3D8-3E24-B027-38ACDCA6DB91}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80C0018B-36F4-41E9-AACF-D2C55AC3B500}
+	EndGlobalSection
+EndGlobal
